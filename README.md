@@ -1,8 +1,8 @@
-# Natron AppImage
+# IPTVnator AppImage
 
 Para gerar o AppImage do Programa em seu PC sem precisar baixar absolutamente nada, execute esse comando:
 ```
-bash <(curl -ks https://raw.githubusercontent.com/LinuxDicasPro/Natron_AppImage/refs/heads/master/get_appimage)
+bash <(curl -ks https://raw.githubusercontent.com/LinuxDicasPro/IPTVnator_AppImage/refs/heads/master/get_appimage)
 ```
 
 O curl com o parâmetro -k vai retornar todo o conteúdo do script para gerar o Appimage.
